@@ -183,9 +183,9 @@ archgraph/
 
 ## 👤 Author & License
 
-* **Author**: Ashwin — [@ashwin9390](https://github.com/ashwin9390)
+* **Author**: Ashwin H — [@ashwin9390](https://github.com/ashwin9390)
 
 * **License**: Apache 2.0. See [LICENSE]
 
 
-* **GitHub**: [github.com/ashwin9390/archgraph-ai](https://github.com/ashwin9390)
+* **GitHub**: [github.com/ashwin9390/archgraph-ai](https://github.com/ashwin9390/Archgraph-AI))
